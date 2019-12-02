@@ -1,1 +1,1 @@
-This project involves deconstrcuting a webpage and re building it using html and css
+This project involves deconstrcuting a webpage and attempting at re building  using basic html and css knowledge. Current issues will be addressed and fixed
