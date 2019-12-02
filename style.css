@@ -1,3 +1,4 @@
+/*Navbar*/
 .navbar{
     margin-top:20px;
     font-family:Arial;
@@ -5,7 +6,7 @@
     padding-right:5px;
 }
 
-
+/*Main-div containing image, search bar and buttons*/
 .main-div{
     display:block;
     margin-left:auto;
@@ -24,6 +25,7 @@
     width:400px;
 }
 
+/* ---- buttons --- */
 .button-1{
     margin-top:30px;
     margin-left:250px;
